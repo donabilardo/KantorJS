@@ -1,2 +1,14 @@
 @import url(normalize.css);
 @import url(fonts.css);
+
+body {
+    font-family: PTSans-Regular;
+    font-weight: 400;
+    color: #000;
+}
+
+h1 {
+    font-family: PTSans-Bold;
+    font-weight: 700;
+    color: #000;
+}
